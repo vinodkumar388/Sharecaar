@@ -111,3 +111,19 @@
 2024-03-19 12:12:36,700 [main] INFO Sharecaar_TestCases.Sharecaar_Login_DataDrivenTest - login button is clicked
 2024-03-19 12:12:39,738 [main] INFO Sharecaar_TestCases.Sharecaar_Login_DataDrivenTest - testcase is failed
 2024-03-19 12:12:40,007 [main] INFO Sharecaar_TestCases.Sharecaar_Login_DataDrivenTest - screenshot is taken
+2024-03-20 11:50:11,030 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - firstname is entered
+2024-03-20 11:50:14,301 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - lastname is entered
+2024-03-20 11:50:17,650 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - Email is entered
+2024-03-20 11:50:22,569 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - contact no is entered
+2024-03-20 11:50:26,579 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - password is entered
+2024-03-20 11:50:29,799 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - confirm password is entered
+2024-03-20 12:02:25,897 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - firstname is entered
+2024-03-20 12:02:29,134 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - lastname is entered
+2024-03-20 12:02:32,486 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - Email is entered
+2024-03-20 12:02:36,876 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - contact no is entered
+2024-03-20 12:02:40,602 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - password is entered
+2024-03-20 12:02:43,781 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - confirm password is entered
+2024-03-20 12:02:46,818 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - enter to the frame
+2024-03-20 12:02:50,246 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - captcha is clicked
+2024-03-20 12:02:59,784 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - signup button is clicked
+2024-03-20 12:02:59,815 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - Testcase is Passed
