@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-20T12:02:12 IST" name="Suite" finished-at="2024-03-20T12:03:00 IST" duration-ms="47622">
+  <suite started-at="2024-03-22T11:22:18 IST" name="Suite" finished-at="2024-03-22T11:23:16 IST" duration-ms="58800">
     <groups>
     </groups>
-    <test started-at="2024-03-20T12:02:12 IST" name="Test" finished-at="2024-03-20T12:03:00 IST" duration-ms="47622">
-      <class name="Sharecaar_TestCases.Sharecaar_SignupTest">
-        <test-method is-config="true" signature="OpenApplication()[pri:0, instance:Sharecaar_TestCases.Sharecaar_SignupTest@62379589]" started-at="2024-03-20T12:02:13 IST" name="OpenApplication" finished-at="2024-03-20T12:02:25 IST" duration-ms="12031" status="PASS">
+    <test started-at="2024-03-22T11:22:18 IST" name="Test" finished-at="2024-03-22T11:23:16 IST" duration-ms="58800">
+      <class name="Sharecaar_TestCases.Sharecaar_OfferRide_Test">
+        <test-method is-config="true" signature="OpenApplication()[pri:0, instance:Sharecaar_TestCases.Sharecaar_OfferRide_Test@62379589]" started-at="2024-03-22T11:22:18 IST" name="OpenApplication" finished-at="2024-03-22T11:22:28 IST" duration-ms="9658" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenApplication -->
-        <test-method signature="Sharecaar_SignupTest()[pri:0, instance:Sharecaar_TestCases.Sharecaar_SignupTest@62379589]" started-at="2024-03-20T12:02:25 IST" name="Sharecaar_SignupTest" finished-at="2024-03-20T12:02:59 IST" duration-ms="34499" status="PASS">
+        <test-method signature="Sharecaar_OfferRide_Test()[pri:0, instance:Sharecaar_TestCases.Sharecaar_OfferRide_Test@62379589]" started-at="2024-03-22T11:22:28 IST" name="Sharecaar_OfferRide_Test" finished-at="2024-03-22T11:23:16 IST" duration-ms="48457" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Sharecaar_SignupTest -->
-        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:Sharecaar_TestCases.Sharecaar_SignupTest@62379589]" started-at="2024-03-20T12:02:59 IST" name="CloseApplication" finished-at="2024-03-20T12:03:00 IST" duration-ms="428" status="PASS">
+        </test-method> <!-- Sharecaar_OfferRide_Test -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:Sharecaar_TestCases.Sharecaar_OfferRide_Test@62379589]" started-at="2024-03-22T11:23:16 IST" name="CloseApplication" finished-at="2024-03-22T11:23:16 IST" duration-ms="305" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseApplication -->
-      </class> <!-- Sharecaar_TestCases.Sharecaar_SignupTest -->
+      </class> <!-- Sharecaar_TestCases.Sharecaar_OfferRide_Test -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

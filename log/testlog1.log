@@ -127,3 +127,45 @@
 2024-03-20 12:02:50,246 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - captcha is clicked
 2024-03-20 12:02:59,784 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - signup button is clicked
 2024-03-20 12:02:59,815 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - Testcase is Passed
+2024-03-21 12:08:13,678 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - firstname is entered
+2024-03-21 12:08:17,105 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - lastname is entered
+2024-03-21 12:08:20,626 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - Email is entered
+2024-03-21 12:08:24,913 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - contact no is entered
+2024-03-21 12:08:28,563 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - password is entered
+2024-03-21 12:08:31,793 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - confirm password is entered
+2024-03-21 12:08:34,846 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - enter to the frame
+2024-03-21 12:08:38,277 [main] INFO Sharecaar_TestCases.Sharecaar_SignupTest - captcha is clicked
+2024-03-22 10:58:32,643 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - email is entered
+2024-03-22 10:58:35,858 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - password is entered
+2024-03-22 10:58:42,942 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - login button is clicked
+2024-03-22 10:58:47,641 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - OfferRide button clicked
+2024-03-22 10:58:50,806 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Start location entered
+2024-03-22 10:58:53,993 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - To location entered
+2024-03-22 10:58:57,181 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Pick location entered
+2024-03-22 10:59:00,471 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Date is entered
+2024-03-22 10:59:03,709 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Time is entered
+2024-03-22 10:59:06,890 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - save button is clicked
+2024-03-22 11:20:18,833 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - email is entered
+2024-03-22 11:20:21,989 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - password is entered
+2024-03-22 11:20:28,619 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - login button is clicked
+2024-03-22 11:20:33,805 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - OfferRide button clicked
+2024-03-22 11:20:36,988 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Start location entered
+2024-03-22 11:20:40,192 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - To location entered
+2024-03-22 11:20:43,385 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Pick location entered
+2024-03-22 11:20:46,651 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Date is entered
+2024-03-22 11:20:49,914 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Time is entered
+2024-03-22 11:20:53,059 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - save button is clicked
+2024-03-22 11:20:56,332 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Return Date is entered
+2024-03-22 11:20:59,482 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Return time is entered
+2024-03-22 11:22:28,303 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - email is entered
+2024-03-22 11:22:31,482 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - password is entered
+2024-03-22 11:22:37,975 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - login button is clicked
+2024-03-22 11:22:43,000 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - OfferRide button clicked
+2024-03-22 11:22:46,180 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Start location entered
+2024-03-22 11:22:49,346 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - To location entered
+2024-03-22 11:22:52,480 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Pick location entered
+2024-03-22 11:22:55,704 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Date is entered
+2024-03-22 11:22:58,903 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Time is entered
+2024-03-22 11:23:02,111 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Return Date is entered
+2024-03-22 11:23:05,310 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - Return time is entered
+2024-03-22 11:23:08,499 [main] INFO Sharecaar_TestCases.Sharecaar_OfferRide_Test - save button is clicked
